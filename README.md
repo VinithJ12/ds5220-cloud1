@@ -1,6 +1,8 @@
 # DS5220 Advanced Cloud Computing
 
-[**Canvas**](https://canvas.its.virginia.edu/courses/173702)
+An intensive overview of cloud infrastructure and their role in data science. Topics will include storage as a service, ephemeral computing resources, auto-scaling, and event-driven workloads. Special attention will be paid to cloud-native design patterns, which are built assuming the unique functionality of cloud computing resources.
+
+[**S26 Canvas**](https://canvas.its.virginia.edu/courses/173702)
 
 ## Labs
 
