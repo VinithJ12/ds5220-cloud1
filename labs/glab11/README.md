@@ -1,4 +1,4 @@
-# Graduate Lab 11: Run a Hypervisor
+# Graduate Lab: Run a Hypervisor
 
 Note: This is the first of five graduate labs.
 
